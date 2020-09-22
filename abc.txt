@@ -2,5 +2,13 @@ this is for master branch
 now this is also for develop branch
 first feature added to this code
 bug reported and resolved
+<<<<<<< HEAD
 second time create develop branch 
 second feature added to this repo
+=======
+bug bugubugbugbugbgbagaaga
+ga
+gsgagags
+agags
+gaga 
+>>>>>>> hotfix
