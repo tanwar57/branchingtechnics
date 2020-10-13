@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 
 trigger:
-- none
+- releasev/1.0
 
 pool:
   vmImage: 'ubuntu-latest'
